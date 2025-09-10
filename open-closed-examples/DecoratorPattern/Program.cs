@@ -1,4 +1,6 @@
 ﻿using DecoratorPattern;
+using DecoratorPattern.Components;
+using DecoratorPattern.Decorators;
 
 Console.WriteLine("--- Decorator Pattern Example ---");
 

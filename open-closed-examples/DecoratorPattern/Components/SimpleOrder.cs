@@ -1,4 +1,4 @@
-namespace DecoratorPattern;
+namespace DecoratorPattern.Components;
 
 public class SimpleOrder : IOrder
 {

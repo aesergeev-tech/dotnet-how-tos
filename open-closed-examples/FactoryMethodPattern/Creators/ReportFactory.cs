@@ -1,4 +1,6 @@
-namespace FactoryMethodPattern;
+using FactoryMethodPattern.Products;
+
+namespace FactoryMethodPattern.Creators;
 
 public class ReportFactory
 {

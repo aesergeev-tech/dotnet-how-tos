@@ -1,4 +1,6 @@
-namespace DecoratorPattern;
+using DecoratorPattern.Components;
+
+namespace DecoratorPattern.Decorators;
 
 public abstract class OrderDecorator : IOrder
 {

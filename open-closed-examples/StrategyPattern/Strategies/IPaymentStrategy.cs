@@ -1,4 +1,4 @@
-namespace StrategyPattern;
+namespace StrategyPattern.Strategies;
 
 public interface IPaymentStrategy
 {

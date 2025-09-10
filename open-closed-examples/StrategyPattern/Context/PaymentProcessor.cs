@@ -1,4 +1,6 @@
-namespace StrategyPattern;
+using StrategyPattern.Strategies;
+
+namespace StrategyPattern.Context;
 
 public class PaymentProcessor
 {

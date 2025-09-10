@@ -1,4 +1,4 @@
-namespace FactoryMethodPattern;
+namespace FactoryMethodPattern.Products;
 
 public interface IReport
 {

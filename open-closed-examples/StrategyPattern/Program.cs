@@ -1,4 +1,6 @@
 ﻿using StrategyPattern;
+using StrategyPattern.Context;
+using StrategyPattern.Strategies;
 
 Console.WriteLine("--- Strategy Pattern Example ---");
 
